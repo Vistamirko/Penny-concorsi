@@ -39,7 +39,7 @@ function App() {
       <div className="container">
         <div className="row">
             <div className="col-12 col-sm-9">
-            <h1>Instagram Post</h1>
+            <h1>Instagram Post Hashtag</h1>
             </div>
           <div className="col-12 col-sm-3 ms-auto">
             
